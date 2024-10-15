@@ -12,7 +12,7 @@ To get started with the Cognitive Modeling Project, follow these installation st
 4. Open the Jupyter notebooks in your local environment or Google Colab.
 
 ## Usage
-Once the installation is complete, you can begin exploring the different bandit models. This project includes simulations of: Binomial rewards with fixed probabilities, Binomial rewards with walking probabilities, Gaussian rewards with fixed mean rewards, Gaussian rewards with walking mean rewards
+Once the installation is complete, you can begin exploring the different bandit models. This project includes simulations of: Binomial rewards with fixed probabilities, Binomial rewards with walking probabilities, Gaussian rewards with fixed mean rewards, Gaussian rewards with walking mean rewards.
 
 ## Support
 If you have any questions, suggestions, or need assistance, feel free to contact us at s2999226@umai.leidenuniv.nl. You can also visit our GitHub repository for more information and updates. We look forward to hearing from you!
